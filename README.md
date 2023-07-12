@@ -1,4 +1,3 @@
 # trabalho-laravel
 
-Video de explicação
-https://youtu.be/WgxrIKSJ50A
+documentação do postman: https://documenter.getpostman.com/view/27588220/2s946chEce
